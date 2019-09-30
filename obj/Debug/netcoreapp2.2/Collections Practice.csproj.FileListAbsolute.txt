@@ -1,0 +1,11 @@
+D:\Coding_Dojo\C#_stack\Language Fundamentals\Language Essentials\Collections Practice\bin\Debug\netcoreapp2.2\Collections Practice.deps.json
+D:\Coding_Dojo\C#_stack\Language Fundamentals\Language Essentials\Collections Practice\bin\Debug\netcoreapp2.2\Collections Practice.runtimeconfig.json
+D:\Coding_Dojo\C#_stack\Language Fundamentals\Language Essentials\Collections Practice\bin\Debug\netcoreapp2.2\Collections Practice.runtimeconfig.dev.json
+D:\Coding_Dojo\C#_stack\Language Fundamentals\Language Essentials\Collections Practice\bin\Debug\netcoreapp2.2\Collections Practice.dll
+D:\Coding_Dojo\C#_stack\Language Fundamentals\Language Essentials\Collections Practice\bin\Debug\netcoreapp2.2\Collections Practice.pdb
+D:\Coding_Dojo\C#_stack\Language Fundamentals\Language Essentials\Collections Practice\obj\Debug\netcoreapp2.2\Collections Practice.csprojAssemblyReference.cache
+D:\Coding_Dojo\C#_stack\Language Fundamentals\Language Essentials\Collections Practice\obj\Debug\netcoreapp2.2\Collections Practice.csproj.CoreCompileInputs.cache
+D:\Coding_Dojo\C#_stack\Language Fundamentals\Language Essentials\Collections Practice\obj\Debug\netcoreapp2.2\Collections Practice.AssemblyInfoInputs.cache
+D:\Coding_Dojo\C#_stack\Language Fundamentals\Language Essentials\Collections Practice\obj\Debug\netcoreapp2.2\Collections Practice.AssemblyInfo.cs
+D:\Coding_Dojo\C#_stack\Language Fundamentals\Language Essentials\Collections Practice\obj\Debug\netcoreapp2.2\Collections Practice.dll
+D:\Coding_Dojo\C#_stack\Language Fundamentals\Language Essentials\Collections Practice\obj\Debug\netcoreapp2.2\Collections Practice.pdb
